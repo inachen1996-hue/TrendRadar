@@ -383,6 +383,7 @@ class DataFetcher:
             id_value = id_info
             alias = id_value
 
+        # 使用 NewsNow API 获取数据
         url = f"https://newsnow.busiyi.world/api/s?id={id_value}&latest"
 
         proxies = None
@@ -3479,12 +3480,9 @@ class NewsAnalyzer:
 
 # === API 功能部分 ===
 
-# 沿用旧版的固定ID列表用于API生成
+# 修改：仅保留抖音平台，确保API模式也只抓取抖音
 API_IDS = [
-    ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
-    ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
-    ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
-    ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ("douyin", "抖音"),
 ]
 
 
