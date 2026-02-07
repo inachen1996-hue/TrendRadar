@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-02-07T23:33:18.204556+08:00",
-  "total_titles_processed": 119,
+  "generated_at": "2026-02-08T00:39:33.181182+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "第一批春运回家的宠物",
-          "url": "https://www.douyin.com/hot/2391401",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28,
-            23,
-            21,
-            20,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时33分 ~ 16时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
