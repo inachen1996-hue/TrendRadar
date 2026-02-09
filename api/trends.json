@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-02-09T22:37:01.189464+08:00",
-  "total_titles_processed": 108,
+  "generated_at": "2026-02-10T00:03:04.231006+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "给萌宠过年支个招",
           "url": "https://www.douyin.com/hot/2394652",
           "source": "抖音",
           "ranks": [
-            20,
-            23,
-            24,
-            22,
-            21
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时00分 ~ 22时37分]"
-        },
-        {
-          "title": "熊猫计划是成龙送小朋友的礼物",
-          "url": "https://www.douyin.com/hot/2393766",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 10时48分]"
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     }
