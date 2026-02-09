@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T18:36:19.408890+08:00",
-  "total_titles_processed": 88,
+  "generated_at": "2026-02-09T19:52:26.498379+08:00",
+  "total_titles_processed": 95,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             23,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时00分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时00分 ~ 19时52分]"
         },
         {
           "title": "熊猫计划是成龙送小朋友的礼物",
