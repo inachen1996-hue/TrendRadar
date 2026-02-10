@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-02-10T23:07:24.051819+08:00",
-  "total_titles_processed": 117,
+  "generated_at": "2026-02-11T00:41:12.954800+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "给萌宠过年支个招",
-          "url": "https://www.douyin.com/hot/2394652",
-          "source": "抖音",
-          "ranks": [
-            24,
-            27,
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 13时40分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
