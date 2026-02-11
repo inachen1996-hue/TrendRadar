@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-11T23:05:03.410533+08:00",
-  "total_titles_processed": 103,
+  "generated_at": "2026-02-12T00:37:26.317609+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新春萌宠才艺大赏",
-          "url": "https://www.douyin.com/hot/2396878",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
