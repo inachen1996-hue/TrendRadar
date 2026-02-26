@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-02-26T22:54:31.829489+08:00",
-  "total_titles_processed": 114,
+  "generated_at": "2026-02-27T00:00:18.246059+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "过年后回家的留守猫",
-          "url": "https://www.douyin.com/hot/2410740",
-          "source": "抖音",
-          "ranks": [
-            29,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 10时40分]"
-        },
-        {
-          "title": "王天辰郭晓婷新剧姐狗文学",
-          "url": "https://www.douyin.com/hot/2411606",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时56分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
