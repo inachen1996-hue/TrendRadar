@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-03T23:27:51.275793+08:00",
-  "total_titles_processed": 112,
+  "generated_at": "2026-03-04T00:10:59.735000+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "萌宠自愿出镜挑战",
-          "url": "https://www.douyin.com/hot/2416362",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
