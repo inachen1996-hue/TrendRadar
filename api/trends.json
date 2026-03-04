@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-03-04T23:07:30.555301+08:00",
-  "total_titles_processed": 112,
+  "generated_at": "2026-03-05T00:06:03.433357+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "正宗猫眼监控",
-          "url": "https://www.douyin.com/hot/2417260",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
