@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-07T07:34:57.133018+08:00",
-  "total_titles_processed": 51,
+  "generated_at": "2026-03-07T10:31:04.070487+08:00",
+  "total_titles_processed": 65,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "猫咪：发生什么事了",
+          "url": "https://www.douyin.com/hot/2421658",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
