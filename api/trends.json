@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-03-09T22:32:11.677764+08:00",
-  "total_titles_processed": 96,
+  "generated_at": "2026-03-10T00:04:41.476016+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一张皱巴巴的纸条一只猫",
-          "url": "https://www.douyin.com/hot/2423637",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29,
-            20,
-            22,
-            23,
-            26,
-            27,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 19时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
