@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-03-14T23:35:15.546546+08:00",
-  "total_titles_processed": 105,
+  "generated_at": "2026-03-15T00:40:20.838695+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我和流浪猫的故事",
-          "url": "https://www.douyin.com/hot/2429010",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            29,
-            22,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
