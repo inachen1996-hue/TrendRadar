@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-17T02:03:21.403254+08:00",
-  "total_titles_processed": 35,
+  "generated_at": "2026-03-17T03:35:11.993087+08:00",
+  "total_titles_processed": 36,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我家那一身反骨的猫咪",
+          "url": "https://www.douyin.com/hot/2431966",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
