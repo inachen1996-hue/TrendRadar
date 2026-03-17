@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T20:07:52.563478+08:00",
-  "total_titles_processed": 91,
+  "generated_at": "2026-03-17T21:58:54.088112+08:00",
+  "total_titles_processed": 97,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最美萌宠锅盖头出现了",
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             22,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时05分 ~ 20时07分]"
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 21时58分]"
         },
         {
           "title": "蒜苗韭菜狗也太萌了",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 14时07分]"
+        },
+        {
+          "title": "眼睛瞎在小猫上",
+          "url": "https://www.douyin.com/hot/2433797",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "我家那一身反骨的猫咪",
