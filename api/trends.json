@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:03:23.350787+08:00",
-  "total_titles_processed": 61,
+  "generated_at": "2026-03-18T14:41:47.047398+08:00",
+  "total_titles_processed": 66,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             18,
             21,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 14时41分]"
         },
         {
           "title": "眼睛瞎在小猫上",
@@ -31,11 +32,12 @@
           "ranks": [
             30,
             29,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 13时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 14时41分]"
         }
       ]
     }
