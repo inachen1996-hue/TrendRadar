@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-03-18T22:01:23.543106+08:00",
-  "total_titles_processed": 98,
+  "generated_at": "2026-03-19T00:00:46.902765+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最美萌宠锅盖头出现了",
-          "url": "https://www.douyin.com/hot/2433891",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            17,
-            18,
-            21,
-            13,
-            11,
-            9,
-            14,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 19时28分]"
-        },
-        {
-          "title": "眼睛瞎在小猫上",
-          "url": "https://www.douyin.com/hot/2433797",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29,
-            26,
-            28,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 20时08分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
