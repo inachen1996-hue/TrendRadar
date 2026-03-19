@@ -1,51 +1,33 @@
 {
-  "generated_at": "2026-03-19T23:30:28.355720+08:00",
-  "total_titles_processed": 111,
+  "generated_at": "2026-03-20T00:35:37.382230+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "外星小绿猫舞姿真的很曼妙",
-          "url": "https://www.douyin.com/hot/2435850",
-          "source": "抖音",
-          "ranks": [
-            18,
-            16,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 23时30分]"
-        },
         {
           "title": "狗狗：不要低估我们回家的决心",
           "url": "https://www.douyin.com/hot/2436417",
           "source": "抖音",
           "ranks": [
-            22,
-            10,
-            14,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 23时30分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "萌宠版怎样都漂亮",
-          "url": "https://www.douyin.com/hot/2436159",
+          "title": "外星小绿猫舞姿真的很曼妙",
+          "url": "https://www.douyin.com/hot/2435850",
           "source": "抖音",
           "ranks": [
-            26,
-            23
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时31分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     }
