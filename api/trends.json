@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T01:55:31.270017+08:00",
-  "total_titles_processed": 32,
+  "generated_at": "2026-03-20T03:29:08.872413+08:00",
+  "total_titles_processed": 33,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 03时29分]"
         },
         {
           "title": "外星小绿猫舞姿真的很曼妙",
@@ -28,8 +29,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 03时29分]"
         }
       ]
     }
