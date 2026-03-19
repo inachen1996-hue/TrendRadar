@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:31:42.249239+08:00",
-  "total_titles_processed": 109,
+  "generated_at": "2026-03-19T23:30:28.355720+08:00",
+  "total_titles_processed": 111,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             16,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 23时30分]"
         },
         {
           "title": "狗狗：不要低估我们回家的决心",
@@ -27,11 +28,12 @@
           "ranks": [
             22,
             10,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 22时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 23时30分]"
         },
         {
           "title": "萌宠版怎样都漂亮",
