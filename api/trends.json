@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-03-20T23:13:16.455919+08:00",
-  "total_titles_processed": 108,
+  "generated_at": "2026-03-21T00:08:40.184311+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "狗狗：不要低估我们回家的决心",
-          "url": "https://www.douyin.com/hot/2436417",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16,
-            12,
-            14,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 10时40分]"
-        },
-        {
-          "title": "外星小绿猫舞姿真的很曼妙",
-          "url": "https://www.douyin.com/hot/2435850",
-          "source": "抖音",
-          "ranks": [
-            28,
-            24,
-            29,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 13时58分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
