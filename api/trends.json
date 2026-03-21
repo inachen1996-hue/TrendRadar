@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-03-21T23:33:27.293006+08:00",
-  "total_titles_processed": 119,
+  "generated_at": "2026-03-22T00:38:47.220398+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "还原“7只小狗结伴逃亡”始末",
-          "url": "https://www.douyin.com/hot/2438660",
-          "source": "抖音",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 23时33分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
