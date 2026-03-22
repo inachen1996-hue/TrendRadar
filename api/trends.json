@@ -1,52 +1,22 @@
 {
-  "generated_at": "2026-03-22T23:33:27.686578+08:00",
-  "total_titles_processed": 110,
+  "generated_at": "2026-03-23T00:39:35.735708+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "还原“7只小狗结伴逃亡”始末",
-          "url": "https://www.douyin.com/hot/2438660",
-          "source": "抖音",
-          "ranks": [
-            16,
-            22,
-            27,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时33分 ~ 15时58分]"
-        },
-        {
-          "title": "白日提灯姐狗感对味了",
-          "url": "https://www.douyin.com/hot/2439664",
-          "source": "抖音",
-          "ranks": [
-            21,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 21时06分]"
-        },
         {
           "title": "狗：就让这大雨全都落下",
           "url": "https://www.douyin.com/hot/2439842",
           "source": "抖音",
           "ranks": [
-            29,
-            22,
-            21
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 23时33分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
