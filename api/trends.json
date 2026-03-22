@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-22T22:01:39.372878+08:00",
-  "total_titles_processed": 97,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-03-22T22:55:20.759189+08:00",
+  "total_titles_processed": 106,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
@@ -42,11 +40,12 @@
           "url": "https://www.douyin.com/hot/2439842",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 22时55分]"
         }
       ]
     }
