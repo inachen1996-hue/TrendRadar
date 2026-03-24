@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-03-24T23:22:58.968011+08:00",
-  "total_titles_processed": 111,
+  "generated_at": "2026-03-25T00:38:19.991669+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "这么情绪稳定的猫你居然有两个",
           "url": "https://www.douyin.com/hot/2441663",
           "source": "抖音",
           "ranks": [
-            17,
-            26,
-            23,
-            24,
-            22
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时09分 ~ 21时58分]"
-        },
-        {
-          "title": "今天只做快乐小狗",
-          "url": "https://www.douyin.com/hot/2440620",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         }
       ]
     }
