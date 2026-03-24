@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-24T17:01:17.659834+08:00",
-  "total_titles_processed": 76,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-03-24T18:05:38.861773+08:00",
+  "total_titles_processed": 84,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
@@ -15,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 15时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时05分]"
         },
         {
           "title": "今天只做快乐小狗",
