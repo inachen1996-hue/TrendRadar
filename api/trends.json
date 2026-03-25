@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-25T10:47:23.323011+08:00",
+  "generated_at": "2026-03-25T13:01:11.166786+08:00",
   "total_titles_processed": 61,
-  "failed_sources": [],
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
