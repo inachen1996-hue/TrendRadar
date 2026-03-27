@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-28T00:01:41.435248+08:00",
-  "total_titles_processed": 30,
+  "generated_at": "2026-03-28T01:28:41.006706+08:00",
+  "total_titles_processed": 33,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白日提灯茶狗坟头求名分",
+          "url": "https://www.douyin.com/hot/2445416",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
