@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-03-27T22:59:03.541450+08:00",
-  "total_titles_processed": 105,
+  "generated_at": "2026-03-28T00:01:41.435248+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "赵露思也跳了外星小绿猫舞",
-          "url": "https://www.douyin.com/hot/2443680",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            25,
-            28,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 07时39分]"
-        },
-        {
-          "title": "白日提灯茶狗坟头求名分",
-          "url": "https://www.douyin.com/hot/2445416",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            22,
-            30,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时13分 ~ 20时05分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
