@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T13:15:06.517290+08:00",
-  "total_titles_processed": 66,
+  "generated_at": "2026-03-27T15:14:00.546282+08:00",
+  "total_titles_processed": 78,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "赵露思也跳了外星小绿猫舞",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 07时39分]"
+        },
+        {
+          "title": "白日提灯茶狗坟头求名分",
+          "url": "https://www.douyin.com/hot/2445416",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         }
       ]
     }
