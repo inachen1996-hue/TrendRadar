@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-30T23:13:03.368677+08:00",
-  "total_titles_processed": 95,
+  "generated_at": "2026-03-31T00:35:13.168288+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你就天天发你的小猫",
+          "url": "https://www.douyin.com/hot/2448948",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
