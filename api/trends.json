@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-04-01T23:13:34.926682+08:00",
-  "total_titles_processed": 98,
+  "generated_at": "2026-04-02T00:33:12.687584+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "你就天天发你的小猫",
-          "url": "https://www.douyin.com/hot/2448948",
-          "source": "抖音",
-          "ranks": [
-            24,
-            19,
-            28,
-            26,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 07时41分]"
-        },
-        {
-          "title": "丁程鑫跳外星小绿猫舞蹈",
-          "url": "https://www.douyin.com/hot/2451192",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
