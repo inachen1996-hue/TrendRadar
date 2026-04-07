@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-07T23:17:49.514848+08:00",
-  "total_titles_processed": 104,
+  "generated_at": "2026-04-08T00:35:45.779306+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "狗狗：全家福怎么少得了我",
-          "url": "https://www.douyin.com/hot/2457262",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
