@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-10T08:04:21.307009+08:00",
-  "total_titles_processed": 44,
+  "generated_at": "2026-04-10T11:49:12.703071+08:00",
+  "total_titles_processed": 60,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "介绍一下我的狗狗家族成员",
+          "url": "https://www.douyin.com/hot/2461321",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
