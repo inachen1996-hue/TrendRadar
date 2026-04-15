@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-04-15T23:49:58.413432+08:00",
-  "total_titles_processed": 103,
+  "generated_at": "2026-04-16T01:14:24.665876+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蜜语纪狗血爽剧",
-          "url": "https://www.douyin.com/hot/2465715",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时54分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
