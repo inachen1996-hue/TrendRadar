@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-17T06:52:06.676732+08:00",
-  "total_titles_processed": 35,
+  "generated_at": "2026-04-17T07:51:08.608718+08:00",
+  "total_titles_processed": 41,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甜妹都在用的小猫特效",
+          "url": "https://www.douyin.com/hot/2468567",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
