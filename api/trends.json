@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-04-19T23:08:43.963199+08:00",
-  "total_titles_processed": 93,
+  "generated_at": "2026-04-20T00:04:44.021211+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "狗狗的心思都写在脸上了",
-          "url": "https://www.douyin.com/hot/2471744",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时00分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
