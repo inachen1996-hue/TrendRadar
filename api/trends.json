@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-04-22T22:50:59.145996+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-04-23T00:14:09.153248+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "又到了狗狗幼儿园开园时间",
-          "url": "https://www.douyin.com/hot/2473923",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 19时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
