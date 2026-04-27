@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-27T19:50:50.318607+08:00",
-  "total_titles_processed": 80,
+  "generated_at": "2026-04-27T22:11:09.125903+08:00",
+  "total_titles_processed": 87,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "也是在汽水音乐节狠狠吃上狗粮了",
+          "url": "https://www.douyin.com/hot/2481280",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
