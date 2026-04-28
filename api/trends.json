@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-04-28T23:06:08.255799+08:00",
-  "total_titles_processed": 105,
+  "generated_at": "2026-04-29T01:13:37.713559+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "也是在汽水音乐节狠狠吃上狗粮了",
-          "url": "https://www.douyin.com/hot/2481280",
-          "source": "抖音",
-          "ranks": [
-            26,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 09时17分]"
-        },
         {
           "title": "招财萌宠接好运",
           "url": "https://www.douyin.com/hot/2482184",
           "source": "抖音",
           "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时12分 ~ 23时06分]"
-        },
-        {
-          "title": "当小猫试图避开未干水泥地",
-          "url": "https://www.douyin.com/hot/2481034",
-          "source": "抖音",
-          "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "01时13分"
         }
       ]
     }
