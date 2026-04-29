@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-04-29T22:16:48.736872+08:00",
-  "total_titles_processed": 78,
+  "generated_at": "2026-04-30T00:15:44.527801+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "招财萌宠接好运",
-          "url": "https://www.douyin.com/hot/2482184",
-          "source": "抖音",
-          "ranks": [
-            26,
-            20,
-            23,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 19时44分]"
-        },
-        {
-          "title": "汽水音乐节撒狗粮的居然是李晨瑜",
-          "url": "https://www.douyin.com/hot/2483196",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
