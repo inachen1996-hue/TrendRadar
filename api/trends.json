@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-05-08T22:05:25.457688+08:00",
-  "total_titles_processed": 92,
+  "generated_at": "2026-05-09T00:04:07.774530+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谁家萌宠最肚肚逼人",
-          "url": "https://www.douyin.com/hot/2491036",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 14时08分]"
-        },
-        {
-          "title": "喵蹦蹦顶级萌宠来袭",
-          "url": "https://www.douyin.com/hot/2491210",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 22时05分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
