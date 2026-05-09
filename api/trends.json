@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-09T23:06:29.781046+08:00",
-  "total_titles_processed": 96,
+  "generated_at": "2026-05-10T00:29:55.579411+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "母亲节谁的萌宠在装傻",
-          "url": "https://www.douyin.com/hot/2493324",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 20时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
