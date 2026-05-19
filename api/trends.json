@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T09:31:33.772332+08:00",
-  "total_titles_processed": 47,
+  "generated_at": "2026-05-19T14:15:06.318092+08:00",
+  "total_titles_processed": 60,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "当我遇到小猫咪我就这样",
@@ -16,11 +16,23 @@
             21,
             25,
             22,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 09时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 14时15分]"
+        },
+        {
+          "title": "我怎么变成秦彻的猫了",
+          "url": "https://www.douyin.com/hot/2504314",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         }
       ]
     }
