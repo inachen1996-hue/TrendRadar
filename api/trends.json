@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T00:27:01.326264+08:00",
-  "total_titles_processed": 30,
+  "generated_at": "2026-05-26T02:11:28.019957+08:00",
+  "total_titles_processed": 33,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2511846",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时11分]"
         },
         {
           "title": "挑战用抖音小猫表情完美卡点",
