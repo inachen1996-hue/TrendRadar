@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T07:12:21.242859+08:00",
-  "total_titles_processed": 40,
+  "generated_at": "2026-05-26T09:26:48.026424+08:00",
+  "total_titles_processed": 48,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             11,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 09时26分]"
         },
         {
           "title": "挑战用抖音小猫表情完美卡点",
@@ -26,11 +27,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 09时26分]"
         }
       ]
     }
