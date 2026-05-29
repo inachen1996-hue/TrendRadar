@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-05-29T23:57:37.885598+08:00",
-  "total_titles_processed": 94,
+  "generated_at": "2026-05-30T02:39:24.290090+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "猫咪对人类幼崽的容忍度",
-          "url": "https://www.douyin.com/hot/2514674",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 16时25分]"
-        },
-        {
-          "title": "这BGM值得专门给狗狗拍张照",
-          "url": "https://www.douyin.com/hot/2515484",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 12时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
