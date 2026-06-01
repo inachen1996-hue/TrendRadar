@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-01T15:07:44.886698+08:00",
-  "total_titles_processed": 63,
+  "generated_at": "2026-06-01T21:13:47.152004+08:00",
+  "total_titles_processed": 79,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "所有馋嘴猫抬起左手",
+          "url": "https://www.douyin.com/hot/2519701",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
