@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-11T07:40:39.284419+08:00",
-  "total_titles_processed": 44,
+  "generated_at": "2026-06-11T12:41:26.500727+08:00",
+  "total_titles_processed": 60,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "猫空空翻麦子今年vs去年",
+          "url": "https://www.douyin.com/hot/2530344",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
