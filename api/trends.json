@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-06-18T23:44:39.007477+08:00",
-  "total_titles_processed": 102,
+  "generated_at": "2026-06-19T02:38:10.487187+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谁家萌宠这么摇头晃脑",
-          "url": "https://www.douyin.com/hot/2537916",
-          "source": "抖音",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 10时08分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
