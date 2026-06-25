@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-25T23:26:21.177933+08:00",
-  "total_titles_processed": 106,
+  "generated_at": "2026-06-26T01:32:13.454093+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大狗一直叫叫叫到天荒地老",
+          "url": "https://www.douyin.com/hot/2547477",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
