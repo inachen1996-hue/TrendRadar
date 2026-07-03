@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T18:44:57.999865+08:00",
-  "total_titles_processed": 83,
+  "generated_at": "2026-07-03T21:01:16.038667+08:00",
+  "total_titles_processed": 92,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "野狗骨头定档",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时44分]"
+        },
+        {
+          "title": "再也不是没有避暑大冬瓜的猫了",
+          "url": "https://www.douyin.com/hot/2557240",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "公司破产了但我只抢到了猫咪",
