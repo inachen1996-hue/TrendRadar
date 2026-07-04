@@ -1,39 +1,7 @@
 {
-  "generated_at": "2026-07-04T23:12:28.442598+08:00",
-  "total_titles_processed": 109,
+  "generated_at": "2026-07-05T00:33:46.369149+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "再也不是没有避暑大冬瓜的猫了",
-          "url": "https://www.douyin.com/hot/2557240",
-          "source": "抖音",
-          "ranks": [
-            29,
-            23,
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 17时38分]"
-        },
-        {
-          "title": "野狗骨头 想要问问你敢不敢",
-          "url": "https://www.douyin.com/hot/2558316",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
