@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:53:11.458629+08:00",
-  "total_titles_processed": 37,
+  "generated_at": "2026-07-06T05:09:27.408878+08:00",
+  "total_titles_processed": 42,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 05时09分]"
         },
         {
           "title": "野狗骨头观后感",
@@ -28,8 +29,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 05时09分]"
         }
       ]
     }
