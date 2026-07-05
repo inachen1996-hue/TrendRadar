@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T00:36:39.560680+08:00",
-  "total_titles_processed": 30,
+  "generated_at": "2026-07-06T02:10:28.063807+08:00",
+  "total_titles_processed": 35,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2559137",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 02时10分]"
         },
         {
           "title": "野狗骨头观后感",
