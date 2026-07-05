@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-07-05T23:22:38.987829+08:00",
-  "total_titles_processed": 102,
+  "generated_at": "2026-07-06T00:36:39.560680+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "野狗骨头开播",
           "url": "https://www.douyin.com/hot/2559137",
           "source": "抖音",
           "ranks": [
-            18,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "野狗骨头观后感",
+          "url": "https://www.douyin.com/hot/2559438",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
