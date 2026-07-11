@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-11T19:31:41.743393+08:00",
-  "total_titles_processed": 84,
+  "generated_at": "2026-07-11T21:40:52.169431+08:00",
+  "total_titles_processed": 92,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "檀健次的小狗有多幸福",
+          "url": "https://www.douyin.com/hot/2567260",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
