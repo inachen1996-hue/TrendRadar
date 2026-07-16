@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-16T18:30:44.272230+08:00",
-  "total_titles_processed": 86,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-07-16T20:06:02.536837+08:00",
+  "total_titles_processed": 97,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
