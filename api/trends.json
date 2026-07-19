@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-19T23:32:51.957672+08:00",
-  "total_titles_processed": 116,
+  "generated_at": "2026-07-20T01:05:19.520970+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李熊猫动画定档0729",
-          "url": "https://www.douyin.com/hot/2576858",
-          "source": "抖音",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 22时04分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
