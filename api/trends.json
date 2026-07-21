@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T11:22:45.946050+08:00",
-  "total_titles_processed": 56,
+  "generated_at": "2026-07-21T14:13:02.177891+08:00",
+  "total_titles_processed": 61,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "我要告诉小咪的秘密是meme",
@@ -13,11 +13,34 @@
           "source": "抖音",
           "ranks": [
             30,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 11时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 14时13分]"
+        },
+        {
+          "title": "我在豆包养宠物",
+          "url": "https://www.douyin.com/hot/2579333",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "野狗骨头大结局",
+          "url": "https://www.douyin.com/hot/2579365",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     }
