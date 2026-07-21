@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T17:12:45.425740+08:00",
-  "total_titles_processed": 73,
+  "generated_at": "2026-07-21T19:25:13.716222+08:00",
+  "total_titles_processed": 79,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 19时25分]"
         },
         {
           "title": "我要告诉小咪的秘密是meme",
@@ -38,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 19时25分]"
         }
       ]
     }
