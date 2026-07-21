@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T19:25:13.716222+08:00",
-  "total_titles_processed": 79,
+  "generated_at": "2026-07-21T20:57:08.305050+08:00",
+  "total_titles_processed": 88,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 20时57分]"
+        },
+        {
+          "title": "野狗骨头大结局",
+          "url": "https://www.douyin.com/hot/2579365",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 20时57分]"
         },
         {
           "title": "我要告诉小咪的秘密是meme",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时02分 ~ 14时13分]"
-        },
-        {
-          "title": "野狗骨头大结局",
-          "url": "https://www.douyin.com/hot/2579365",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 19时25分]"
         }
       ]
     }
