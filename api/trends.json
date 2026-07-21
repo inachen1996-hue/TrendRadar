@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T02:20:28.029643+08:00",
-  "total_titles_processed": 33,
+  "generated_at": "2026-07-22T04:02:28.288017+08:00",
+  "total_titles_processed": 35,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时02分]"
         },
         {
           "title": "野狗骨头大结局",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 04时02分]"
         }
       ]
     }
