@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T00:57:06.994605+08:00",
-  "total_titles_processed": 30,
+  "generated_at": "2026-07-22T02:20:28.029643+08:00",
+  "total_titles_processed": 33,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.douyin.com/hot/2579333",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时20分]"
         },
         {
           "title": "野狗骨头大结局",
           "url": "https://www.douyin.com/hot/2579365",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时20分]"
         }
       ]
     }
