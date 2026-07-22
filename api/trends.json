@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-07-22T22:36:28.264816+08:00",
-  "total_titles_processed": 94,
+  "generated_at": "2026-07-23T00:24:34.974042+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我在豆包养宠物",
-          "url": "https://www.douyin.com/hot/2579333",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            5,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 18时01分]"
-        },
-        {
-          "title": "野狗骨头大结局",
-          "url": "https://www.douyin.com/hot/2579365",
-          "source": "抖音",
-          "ranks": [
-            17,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 08时57分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
