@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T21:06:56.311611+08:00",
-  "total_titles_processed": 90,
+  "generated_at": "2026-07-23T23:34:00.877051+08:00",
+  "total_titles_processed": 102,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时06分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 23时34分]"
         },
         {
           "title": "我在豆包养宠物",
