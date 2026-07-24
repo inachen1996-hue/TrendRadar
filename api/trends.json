@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-07-24T23:57:34.304074+08:00",
-  "total_titles_processed": 103,
+  "generated_at": "2026-07-25T01:45:29.944871+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "完全萌宠界老戏骨来的",
-          "url": "https://www.douyin.com/hot/2582428",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            16,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 15时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
