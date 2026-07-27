@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T02:58:20.115977+08:00",
-  "total_titles_processed": 35,
+  "generated_at": "2026-07-28T04:38:13.668440+08:00",
+  "total_titles_processed": 37,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "小猫吵着要拍百万运镜",
+          "url": "https://www.douyin.com/hot/2586889",
+          "source": "抖音",
+          "ranks": [
+            19,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 04时38分]"
+        },
+        {
           "title": "腾讯宣布QQ宠物回归",
           "url": "https://www.douyin.com/hot/2586851",
           "source": "抖音",
           "ranks": [
             10,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时58分]"
-        },
-        {
-          "title": "小猫吵着要拍百万运镜",
-          "url": "https://www.douyin.com/hot/2586889",
-          "source": "抖音",
-          "ranks": [
-            19,
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
