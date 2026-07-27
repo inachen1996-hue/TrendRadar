@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T01:03:29.475376+08:00",
-  "total_titles_processed": 30,
+  "generated_at": "2026-07-28T02:58:20.115977+08:00",
+  "total_titles_processed": 35,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.douyin.com/hot/2586851",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时58分]"
         },
         {
           "title": "小猫吵着要拍百万运镜",
           "url": "https://www.douyin.com/hot/2586889",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时58分]"
         }
       ]
     }
