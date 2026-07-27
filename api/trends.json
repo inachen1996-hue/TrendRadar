@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-27T11:41:56.773591+08:00",
-  "total_titles_processed": 59,
+  "generated_at": "2026-07-27T15:39:56.932168+08:00",
+  "total_titles_processed": 82,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小猫吵着要拍百万运镜",
+          "url": "https://www.douyin.com/hot/2586889",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
