@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-07-28T22:24:36.887786+08:00",
-  "total_titles_processed": 95,
+  "generated_at": "2026-07-29T00:19:13.022546+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小猫吵着要拍百万运镜",
-          "url": "https://www.douyin.com/hot/2586889",
-          "source": "抖音",
-          "ranks": [
-            19,
-            27,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 11时14分]"
-        },
-        {
-          "title": "腾讯宣布QQ宠物回归",
-          "url": "https://www.douyin.com/hot/2586851",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时58分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
