@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-07-30T23:34:01.928151+08:00",
-  "total_titles_processed": 95,
+  "generated_at": "2026-07-31T01:41:44.431935+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小猫脾气测试",
-          "url": "https://www.douyin.com/hot/2588903",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 23时34分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
