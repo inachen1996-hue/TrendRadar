@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T04:23:36.442325+08:00",
-  "total_titles_processed": 36,
+  "generated_at": "2026-08-01T05:41:20.599744+08:00",
+  "total_titles_processed": 37,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 05时41分]"
         },
         {
           "title": "洛克王国武斗酷猫",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 05时41分]"
         },
         {
           "title": "九门吴老狗不识字",
@@ -37,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时55分 ~ 05时41分]"
         }
       ]
     }
