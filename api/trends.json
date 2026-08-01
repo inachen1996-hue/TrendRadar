@@ -1,57 +1,12 @@
 {
-  "generated_at": "2026-08-01T23:06:12.262264+08:00",
-  "total_titles_processed": 94,
+  "generated_at": "2026-08-02T00:30:45.893976+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "洛克王国武斗酷猫",
-          "url": "https://www.douyin.com/hot/2591969",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            28,
-            27,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 18时04分]"
-        },
-        {
-          "title": "九门吴老狗不识字",
-          "url": "https://www.douyin.com/hot/2592187",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28,
-            26,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时55分 ~ 15时32分]"
-        },
-        {
-          "title": "总是为路边的小猫驻足算幼稚吗",
-          "url": "https://www.douyin.com/hot/2592376",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 15时32分]"
-        },
         {
           "title": "狗狗的正太扭腰好可爱",
           "url": "https://www.douyin.com/hot/2593692",
@@ -59,9 +14,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "00时30分"
         }
       ]
     }
