@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:08:47.592239+08:00",
-  "total_titles_processed": 38,
+  "generated_at": "2026-08-01T09:05:54.895549+08:00",
+  "total_titles_processed": 45,
   "failed_sources": [],
   "trends": [
     {
@@ -14,24 +14,12 @@
           "ranks": [
             25,
             23,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 07时08分]"
-        },
-        {
-          "title": "总是为路边的小猫驻足算幼稚吗",
-          "url": "https://www.douyin.com/hot/2592376",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 09时05分]"
         },
         {
           "title": "九门吴老狗不识字",
@@ -41,6 +29,19 @@
             30,
             28,
             26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 09时05分]"
+        },
+        {
+          "title": "总是为路边的小猫驻足算幼稚吗",
+          "url": "https://www.douyin.com/hot/2592376",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
