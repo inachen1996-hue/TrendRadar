@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T15:32:26.349246+08:00",
-  "total_titles_processed": 66,
+  "generated_at": "2026-08-01T18:04:55.336908+08:00",
+  "total_titles_processed": 78,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             23,
             28,
             27,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时55分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[02时55分 ~ 18时04分]"
         },
         {
           "title": "九门吴老狗不识字",
