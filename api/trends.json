@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T17:35:14.350408+08:00",
-  "total_titles_processed": 83,
+  "generated_at": "2026-08-02T19:20:47.438286+08:00",
+  "total_titles_processed": 88,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             24,
             30,
             26,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 17时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "总是为路边的小猫驻足算幼稚吗",
