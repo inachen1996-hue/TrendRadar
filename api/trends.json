@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T22:59:35.526259+08:00",
-  "total_titles_processed": 87,
+  "generated_at": "2026-08-06T00:48:11.612962+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "修理工小猫在线接单",
-          "url": "https://www.douyin.com/hot/2596761",
+          "title": "吴老狗一呼百汪",
+          "url": "https://www.douyin.com/hot/2598485",
           "source": "抖音",
           "ranks": [
-            23,
-            26,
-            21,
-            27,
-            28,
-            18
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     }
