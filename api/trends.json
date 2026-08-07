@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-08-07T22:59:26.888674+08:00",
-  "total_titles_processed": 96,
+  "generated_at": "2026-08-08T00:03:59.069781+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小猫：应该是在叫我吧",
-          "url": "https://www.douyin.com/hot/2600390",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9,
-            18,
-            19,
-            25,
-            20,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 22时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
