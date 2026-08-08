@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-08T23:35:52.548347+08:00",
-  "total_titles_processed": 103,
+  "generated_at": "2026-08-09T00:41:06.442935+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "狗狗来了云南也得过火把节",
-          "url": "https://www.douyin.com/hot/2602074",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
