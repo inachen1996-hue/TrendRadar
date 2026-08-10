@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-08-10T23:09:03.890717+08:00",
-  "total_titles_processed": 114,
+  "generated_at": "2026-08-11T00:25:12.880514+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "戴上面具召唤你的本命猫咪",
-          "url": "https://www.douyin.com/hot/2604317",
-          "source": "抖音",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
