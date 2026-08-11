@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T19:22:58.538843+08:00",
-  "total_titles_processed": 81,
+  "generated_at": "2026-08-11T20:12:19.120312+08:00",
+  "total_titles_processed": 83,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             30,
             26,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时34分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[03时34分 ~ 20时12分]"
         },
         {
           "title": "拖地小猫有的是力气",
@@ -26,11 +27,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 20时12分]"
         }
       ]
     }
