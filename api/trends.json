@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-14T23:59:55.020903+08:00",
-  "total_titles_processed": 106,
+  "generated_at": "2026-08-15T01:04:03.375397+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这是你的专属双生小猫",
-          "url": "https://www.douyin.com/hot/2609444",
-          "source": "抖音",
-          "ranks": [
-            21,
-            24,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 20时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
