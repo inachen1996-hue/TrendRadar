@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-08-18T20:57:16.257366+08:00",
-  "total_titles_processed": 86,
+  "generated_at": "2026-08-19T04:55:48.307876+08:00",
+  "total_titles_processed": 30,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 第一组：宠物通用 宠物 猫 狗 哈基咪 喵星人 汪星人 萌宠 哈基仙人 咪",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这是酷狗音乐吗",
-          "url": "https://www.douyin.com/hot/2612791",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 10时06分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://inachen1996-hue.github.io/TrendRadar/img/news.jpg"
 }
